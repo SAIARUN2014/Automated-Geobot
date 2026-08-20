@@ -1,4 +1,4 @@
-# EcoBot Hardware
+# Automated Geobot Hardware
 
 ## Main Controller
 
