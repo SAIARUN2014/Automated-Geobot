@@ -1,4 +1,4 @@
-# EcoBot Pin Connections
+# Automated Geobot Pin Connections
 
 This file documents the electrical connections between the
 Arduino UNO, sensors, LCD, GPS, motor driver and other
