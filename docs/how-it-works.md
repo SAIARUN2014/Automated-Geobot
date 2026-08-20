@@ -1,6 +1,6 @@
 # How Automated Geobot Works
 
-EcoBot is a mobile environmental monitoring robot designed
+Automated Geobot is a mobile environmental monitoring robot designed
 to collect information about its surroundings while moving.
 
 ## Main Controller
