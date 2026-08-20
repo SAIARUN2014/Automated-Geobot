@@ -39,6 +39,6 @@ in progress.
 
 ## Project Goal
 
-The goal of Automate Geobot is to develop a mobile robot capable of
+The goal of Automated Geobot is to develop a mobile robot capable of
 monitoring environmental conditions while moving through
 an area.
