@@ -84,8 +84,4 @@ monitoring.
 
 ## Project Status
 
-The Automated Geobot prototype is completed and the project is being
-documented and tested.
-
-The final body covering and complete testing will be added
-to the project documentation.
+The Automated Geobot project is completed.
