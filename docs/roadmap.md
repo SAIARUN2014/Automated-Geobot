@@ -11,21 +11,21 @@
 - [x] Hardware documentation created
 - [x] System operation documentation created
 - [x] Testing documentation created
-
-## In Progress
-- [ ] Final physical covering with white foam sheet
-- [ ] Final wiring verification
-- [ ] Arduino software development
-- [ ] ESP32-CAM software development
-- [ ] Sensor testing
-- [ ] Motor testing
-- [ ] LCD testing
-- [ ] GPS testing
-
-## Final Stage
-- [ ] Complete system integration
-- [ ] Full Automated Geobot testing
+- [x] Final physical covering with white foam sheet
+- [x] Final wiring verification
+- [x] Arduino software development
+- [x] ESP32-CAM software development
+- [x] Sensor testing
+- [x] Motor testing
+- [x] LCD testing
+- [x] GPS testing
+- [x] Complete system integration
+- [x] Full Automated Geobot testing
 - [ ] Capture final project photographs
 - [ ] Add final photographs to GitHub
-- [ ] Final documentation review
-- [ ] Project submission
+- [x] Final documentation review
+- [x] Project submission
+
+## In Progress
+
+## Final Stage
