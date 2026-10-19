@@ -33,9 +33,7 @@ surroundings.
 - Battery
 
 ## Project Status
-
-🟡 Prototype completed — final body covering and documentation
-in progress.
+Everything is completed except the photograph
 
 ## Project Goal
 
